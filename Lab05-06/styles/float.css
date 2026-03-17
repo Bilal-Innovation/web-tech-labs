@@ -1,0 +1,17 @@
+.sidebar {
+    float: left;
+    width: 30%;
+    background: lightblue;
+    padding: 20px;
+}
+
+.content {
+    float: right;
+    width: 65%;
+    background: lightgreen;
+    padding: 20px;
+}
+
+.clear {
+    clear: both;
+}

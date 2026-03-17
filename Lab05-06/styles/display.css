@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+}
+
+.block {
+    display: block;
+    background: lightblue;
+    margin: 10px;
+    padding: 10px;
+}
+
+.inline {
+    display: inline;
+    background: yellow;
+}
+
+.inline-block {
+    display: inline-block;
+    background: pink;
+    padding: 10px;
+}
+
+.hidden {
+    display: none;
+}
